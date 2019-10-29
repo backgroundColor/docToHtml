@@ -87,20 +87,14 @@ function createTemp (content, name) {
   'border-top: 1px solid #333;' +
   'border-left: 1px solid #333;' +
   '}' +
-  'table tbody tr {' +
+  'table tr {' +
   'border-bottom: 1px solid #333;' +
   '}' +
-  'table tbody td {' +
+  'table td {' +
   'border-right: 1px solid #333;' +
   '}' +
-  'table thead td {' +
+  'table th {' +
   'border-right: 1px solid #333;' +
-  '}' +
-  'table thead th {' +
-  'border-right: 1px solid #333;' +
-  '}' +
-  'table thead tr {' +
-  'border-bottom: 1px solid #333;' +
   '}' +
   '@media only screen and (max-width: 1080px),' +
   'only screen and (max-device-width:1080px) {' +
